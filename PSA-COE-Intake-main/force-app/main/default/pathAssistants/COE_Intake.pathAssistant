@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathAssistant xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <entityName>coe_Intake__c</entityName>
+    <fieldName>coe_Intake_Status__c</fieldName>
+    <masterLabel>COE Intake</masterLabel>
+    <recordTypeName>COE_Intake</recordTypeName>
+</PathAssistant>
