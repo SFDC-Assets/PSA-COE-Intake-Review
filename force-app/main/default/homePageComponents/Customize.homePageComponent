@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HomePageComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <links>Authenticate</links>
+    <links>Change_Logo_Heroku</links>
+    <links>Perfect_Date_Wizard_Heroku</links>
+    <links>Password_Reset</links>
+    <links>Set_Community_Users</links>
+    <links>Forms_Fast</links>
+    <links>Chatter_Droids</links>
+    <links>Picklist2Icon</links>
+    <pageComponentType>links</pageComponentType>
+</HomePageComponent>
