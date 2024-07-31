@@ -52,10 +52,7 @@ Please refer to [Public Sector Solutions Products: User, Feature, and Permission
   
 ## Installation for COE App
 * Log in to your Salesforce Environement
-* Use the installation link: https://test.salesforce.com/packaging/installPackage.apexp?p0=04tHp00000118fQ 
-*  **Note if installing in production org replace test.salesforce.com with login.salesforce.com**
-*  Install the package
-*  Package can also be installed by cloning this repo
+* Use the installation link: [https://test.salesforce.com/packaging/installPackage.apexp?p0=04tHp00000118fQ](https://test.salesforce.com/packaging/installPackage.apexp?p0=04tHp00000118fQ)
   
 ## Installation for Omnistudio Components
 * Download datapacks included in the /datapacks/ folder
