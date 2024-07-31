@@ -1,0 +1,257 @@
+ExistingApplication,ExistingPlatform,ATORequirement,BusinessAutomationNeeded,IntegrationNeeded,CollaborationNeeded?,MobileNeeded?,Recommendation?,BestRecommendation
+1,1,1,1,1,1,1,1,Salesforce
+1,1,1,1,1,1,1,0,Salesforce
+1,1,1,1,1,1,0,1,Salesforce
+1,1,1,1,1,1,0,0,Salesforce
+1,1,1,1,1,0,1,1,Salesforce
+1,1,1,1,1,0,1,0,Salesforce
+1,1,1,1,1,0,0,1,Salesforce
+1,1,1,1,1,0,0,0,Salesforce
+1,1,1,1,0,1,1,1,Salesforce
+1,1,1,1,0,1,1,0,Salesforce
+1,1,1,1,0,1,0,1,Salesforce
+1,1,1,1,0,1,0,0,Salesforce
+1,1,1,1,0,0,1,1,Salesforce
+1,1,1,1,0,0,1,0,Salesforce
+1,1,1,1,0,0,0,1,Salesforce
+1,1,1,1,0,0,0,0,Salesforce
+1,1,1,0,1,1,1,1,Salesforce
+1,1,1,0,1,1,1,0,Salesforce
+1,1,1,0,1,1,0,1,Salesforce
+1,1,1,0,1,1,0,0,Salesforce
+1,1,1,0,1,0,1,1,Salesforce
+1,1,1,0,1,0,1,0,Salesforce
+1,1,1,0,1,0,0,1,Salesforce
+1,1,1,0,1,0,0,0,Salesforce
+1,1,1,0,0,1,1,1,Salesforce
+1,1,1,0,0,1,1,0,Salesforce
+1,1,1,0,0,1,0,1,Salesforce
+1,1,1,0,0,1,0,0,Salesforce
+1,1,1,0,0,0,1,1,Salesforce
+1,1,1,0,0,0,1,0,Salesforce
+1,1,1,0,0,0,0,1,Salesforce
+1,1,1,0,0,0,0,0,Salesforce
+1,1,0,1,1,1,1,1,Salesforce
+1,1,0,1,1,1,1,0,Salesforce
+1,1,0,1,1,1,0,1,Salesforce
+1,1,0,1,1,1,0,0,Salesforce
+1,1,0,1,1,0,1,1,Salesforce
+1,1,0,1,1,0,1,0,Salesforce
+1,1,0,1,1,0,0,1,Salesforce
+1,1,0,1,1,0,0,0,Salesforce
+1,1,0,1,0,1,1,1,Salesforce
+1,1,0,1,0,1,1,0,Salesforce
+1,1,0,1,0,1,0,1,Salesforce
+1,1,0,1,0,1,0,0,Salesforce
+1,1,0,1,0,0,1,1,Salesforce
+1,1,0,1,0,0,1,0,Salesforce
+1,1,0,1,0,0,0,1,Salesforce
+1,1,0,1,0,0,0,0,Salesforce
+1,1,0,0,1,1,1,1,Salesforce
+1,1,0,0,1,1,1,0,Salesforce
+1,1,0,0,1,1,0,1,Salesforce
+1,1,0,0,1,1,0,0,Salesforce
+1,1,0,0,1,0,1,1,Other Vendor
+1,1,0,0,1,0,1,0,Other Vendor
+1,1,0,0,1,0,0,1,Other Vendor
+1,1,0,0,1,0,0,0,Other Vendor
+1,1,0,0,0,1,1,1,Salesforce
+1,1,0,0,0,1,1,0,Salesforce
+1,1,0,0,0,1,0,1,Salesforce
+1,1,0,0,0,1,0,0,Salesforce
+1,1,0,0,0,0,1,1,Other Vendor
+1,1,0,0,0,0,1,0,Other Vendor
+1,1,0,0,0,0,0,1,Other Vendor
+1,1,0,0,0,0,0,0,Other Vendor
+1,0,1,1,1,1,1,1,Other Vendor
+1,0,1,1,1,1,1,0,Other Vendor
+1,0,1,1,1,1,0,1,Other Vendor
+1,0,1,1,1,1,0,0,Other Vendor
+1,0,1,1,1,0,1,1,Other Vendor
+1,0,1,1,1,0,1,0,Other Vendor
+1,0,1,1,1,0,0,1,Other Vendor
+1,0,1,1,1,0,0,0,Other Vendor
+1,0,1,1,0,1,1,1,Other Vendor
+1,0,1,1,0,1,1,0,Other Vendor
+1,0,1,1,0,1,0,1,Other Vendor
+1,0,1,1,0,1,0,0,Other Vendor
+1,0,1,1,0,0,1,1,Other Vendor
+1,0,1,1,0,0,1,0,Other Vendor
+1,0,1,1,0,0,0,1,Other Vendor
+1,0,1,1,0,0,0,0,Other Vendor
+1,0,1,0,1,1,1,1,Other Vendor
+1,0,1,0,1,1,1,0,Other Vendor
+1,0,1,0,1,1,0,1,Other Vendor
+1,0,1,0,1,1,0,0,Other Vendor
+1,0,1,0,1,0,1,1,Other Vendor
+1,0,1,0,1,0,1,0,Other Vendor
+1,0,1,0,1,0,0,1,Other Vendor
+1,0,1,0,1,0,0,0,Other Vendor
+1,0,1,0,0,1,1,1,Other Vendor
+1,0,1,0,0,1,1,0,Other Vendor
+1,0,1,0,0,1,0,1,Other Vendor
+1,0,1,0,0,1,0,0,Other Vendor
+1,0,1,0,0,0,1,1,Other Vendor
+1,0,1,0,0,0,1,0,Other Vendor
+1,0,1,0,0,0,0,1,Other Vendor
+1,0,1,0,0,0,0,0,Other Vendor
+1,0,0,1,1,1,1,1,Salesforce
+1,0,0,1,1,1,1,0,Salesforce
+1,0,0,1,1,1,0,1,Salesforce
+1,0,0,1,1,1,0,0,Salesforce
+1,0,0,1,1,0,1,1,Other Vendor
+1,0,0,1,1,0,1,0,Other Vendor
+1,0,0,1,1,0,0,1,Other Vendor
+1,0,0,1,1,0,0,0,Other Vendor
+1,0,0,1,0,1,1,1,Salesforce
+1,0,0,1,0,1,1,0,Salesforce
+1,0,0,1,0,1,0,1,Salesforce
+1,0,0,1,0,1,0,0,Salesforce
+1,0,0,1,0,0,1,1,Other Vendor
+1,0,0,1,0,0,1,0,Other Vendor
+1,0,0,1,0,0,0,1,Other Vendor
+1,0,0,1,0,0,0,0,Other Vendor
+1,0,0,0,1,1,1,1,Other Vendor
+1,0,0,0,1,1,1,0,Other Vendor
+1,0,0,0,1,1,0,1,Other Vendor
+1,0,0,0,1,1,0,0,Other Vendor
+1,0,0,0,1,0,1,1,Other Vendor
+1,0,0,0,1,0,1,0,Other Vendor
+1,0,0,0,1,0,0,1,Other Vendor
+1,0,0,0,1,0,0,0,Other Vendor
+1,0,0,0,0,1,1,1,Other Vendor
+1,0,0,0,0,1,1,0,Other Vendor
+1,0,0,0,0,1,0,1,Other Vendor
+1,0,0,0,0,1,0,0,Other Vendor
+1,0,0,0,0,0,1,1,Other Vendor
+1,0,0,0,0,0,1,0,Other Vendor
+1,0,0,0,0,0,0,1,Other Vendor
+1,0,0,0,0,0,0,0,Other Vendor
+0,1,1,1,1,1,1,1,Salesforce
+0,1,1,1,1,1,1,0,Salesforce
+0,1,1,1,1,1,0,1,Salesforce
+0,1,1,1,1,1,0,0,Salesforce
+0,1,1,1,1,0,1,1,Salesforce
+0,1,1,1,1,0,1,0,Salesforce
+0,1,1,1,1,0,0,1,Salesforce
+0,1,1,1,1,0,0,0,Salesforce
+0,1,1,1,0,1,1,1,Salesforce
+0,1,1,1,0,1,1,0,Salesforce
+0,1,1,1,0,1,0,1,Salesforce
+0,1,1,1,0,1,0,0,Salesforce
+0,1,1,1,0,0,1,1,Salesforce
+0,1,1,1,0,0,1,0,Salesforce
+0,1,1,1,0,0,0,1,Salesforce
+0,1,1,1,0,0,0,0,Salesforce
+0,1,1,0,1,1,1,1,Salesforce
+0,1,1,0,1,1,1,0,Salesforce
+0,1,1,0,1,1,0,1,Salesforce
+0,1,1,0,1,1,0,0,Salesforce
+0,1,1,0,1,0,1,1,Salesforce
+0,1,1,0,1,0,1,0,Salesforce
+0,1,1,0,1,0,0,1,Salesforce
+0,1,1,0,1,0,0,0,Salesforce
+0,1,1,0,0,1,1,1,Salesforce
+0,1,1,0,0,1,1,0,Salesforce
+0,1,1,0,0,1,0,1,Salesforce
+0,1,1,0,0,1,0,0,Salesforce
+0,1,1,0,0,0,1,1,Salesforce
+0,1,1,0,0,0,1,0,Salesforce
+0,1,1,0,0,0,0,1,Salesforce
+0,1,1,0,0,0,0,0,Salesforce
+0,1,0,1,1,1,1,1,Salesforce
+0,1,0,1,1,1,1,0,Salesforce
+0,1,0,1,1,1,0,1,Salesforce
+0,1,0,1,1,1,0,0,Salesforce
+0,1,0,1,1,0,1,1,Salesforce
+0,1,0,1,1,0,1,0,Salesforce
+0,1,0,1,1,0,0,1,Salesforce
+0,1,0,1,1,0,0,0,Salesforce
+0,1,0,1,0,1,1,1,Salesforce
+0,1,0,1,0,1,1,0,Salesforce
+0,1,0,1,0,1,0,1,Salesforce
+0,1,0,1,0,1,0,0,Salesforce
+0,1,0,1,0,0,1,1,Salesforce
+0,1,0,1,0,0,1,0,Salesforce
+0,1,0,1,0,0,0,1,Salesforce
+0,1,0,1,0,0,0,0,Salesforce
+0,1,0,0,1,1,1,1,Salesforce
+0,1,0,0,1,1,1,0,Salesforce
+0,1,0,0,1,1,0,1,Salesforce
+0,1,0,0,1,1,0,0,Salesforce
+0,1,0,0,1,0,1,1,Other Vendor
+0,1,0,0,1,0,1,0,Other Vendor
+0,1,0,0,1,0,0,1,Other Vendor
+0,1,0,0,1,0,0,0,Other Vendor
+0,1,0,0,0,1,1,1,Salesforce
+0,1,0,0,0,1,1,0,Salesforce
+0,1,0,0,0,1,0,1,Salesforce
+0,1,0,0,0,1,0,0,Salesforce
+0,1,0,0,0,0,1,1,Other Vendor
+0,1,0,0,0,0,1,0,Other Vendor
+0,1,0,0,0,0,0,1,Other Vendor
+0,1,0,0,0,0,0,0,Other Vendor
+0,0,1,1,1,1,1,1,Other Vendor
+0,0,1,1,1,1,1,0,Other Vendor
+0,0,1,1,1,1,0,1,Other Vendor
+0,0,1,1,1,1,0,0,Other Vendor
+0,0,1,1,1,0,1,1,Other Vendor
+0,0,1,1,1,0,1,0,Other Vendor
+0,0,1,1,1,0,0,1,Other Vendor
+0,0,1,1,1,0,0,0,Other Vendor
+0,0,1,1,0,1,1,1,Other Vendor
+0,0,1,1,0,1,1,0,Other Vendor
+0,0,1,1,0,1,0,1,Other Vendor
+0,0,1,1,0,1,0,0,Other Vendor
+0,0,1,1,0,0,1,1,Other Vendor
+0,0,1,1,0,0,1,0,Other Vendor
+0,0,1,1,0,0,0,1,Other Vendor
+0,0,1,1,0,0,0,0,Other Vendor
+0,0,1,0,1,1,1,1,Other Vendor
+0,0,1,0,1,1,1,0,Other Vendor
+0,0,1,0,1,1,0,1,Other Vendor
+0,0,1,0,1,1,0,0,Other Vendor
+0,0,1,0,1,0,1,1,Other Vendor
+0,0,1,0,1,0,1,0,Other Vendor
+0,0,1,0,1,0,0,1,Other Vendor
+0,0,1,0,1,0,0,0,Other Vendor
+0,0,1,0,0,1,1,1,Other Vendor
+0,0,1,0,0,1,1,0,Other Vendor
+0,0,1,0,0,1,0,1,Other Vendor
+0,0,1,0,0,1,0,0,Other Vendor
+0,0,1,0,0,0,1,1,Other Vendor
+0,0,1,0,0,0,1,0,Other Vendor
+0,0,1,0,0,0,0,1,Other Vendor
+0,0,1,0,0,0,0,0,Other Vendor
+0,0,0,1,1,1,1,1,Salesforce
+0,0,0,1,1,1,1,0,Salesforce
+0,0,0,1,1,1,0,1,Salesforce
+0,0,0,1,1,1,0,0,Salesforce
+0,0,0,1,1,0,1,1,Other Vendor
+0,0,0,1,1,0,1,0,Other Vendor
+0,0,0,1,1,0,0,1,Other Vendor
+0,0,0,1,1,0,0,0,Other Vendor
+0,0,0,1,0,1,1,1,Salesforce
+0,0,0,1,0,1,1,0,Salesforce
+0,0,0,1,0,1,0,1,Salesforce
+0,0,0,1,0,1,0,0,Salesforce
+0,0,0,1,0,0,1,1,Other Vendor
+0,0,0,1,0,0,1,0,Other Vendor
+0,0,0,1,0,0,0,1,Other Vendor
+0,0,0,1,0,0,0,0,Other Vendor
+0,0,0,0,1,1,1,1,Other Vendor
+0,0,0,0,1,1,1,0,Other Vendor
+0,0,0,0,1,1,0,1,Other Vendor
+0,0,0,0,1,1,0,0,Other Vendor
+0,0,0,0,1,0,1,1,Other Vendor
+0,0,0,0,1,0,1,0,Other Vendor
+0,0,0,0,1,0,0,1,Other Vendor
+0,0,0,0,1,0,0,0,Other Vendor
+0,0,0,0,0,1,1,1,Other Vendor
+0,0,0,0,0,1,1,0,Other Vendor
+0,0,0,0,0,1,0,1,Other Vendor
+0,0,0,0,0,1,0,0,Other Vendor
+0,0,0,0,0,0,1,1,Other Vendor
+0,0,0,0,0,0,1,0,Other Vendor
+0,0,0,0,0,0,0,1,Other Vendor
+0,0,0,0,0,0,0,0,Other Vendor
