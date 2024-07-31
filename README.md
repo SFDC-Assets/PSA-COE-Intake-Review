@@ -1,6 +1,6 @@
 ![Public Sector Accelerators logo](/docs/Logo_GPSAccelerators_v01.png)
 
-# COE Intake Accelerator
+# Center of Excellence (COE) Intake and Review Accelerator
 Use this accelerator consisting of omniscript, flows, and business rules engine to help supplement the COE intake process.  
 
 Accelerator Listing: [insert url to the public listing on the Accelerator site](https://gpsaccelerators.developer.salesforce.com/) (tbd once published)
