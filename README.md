@@ -50,38 +50,41 @@ Please refer to [Public Sector Solutions Products: User, Feature, and Permission
 * If you do not have a Salesforce org licensed to you, you may try Public Sector Solutions for free with one of our [trial environments](https://developer.salesforce.com/free-trials/comparison/public-sector).
 * You are using this Accelerator in conjunction with the Salesforce Lightning Experience (LEX) - not the Classic UI.
   
-## Installation for COE App
-* Log in to your Salesforce Environement
-* Use the installation link: [https://test.salesforce.com/packaging/installPackage.apexp?p0=04tHp00000118fQ](https://test.salesforce.com/packaging/installPackage.apexp?p0=04tHp00000118fQ)
+## Installation of the COE App
+Unmanaged package installation link: [https://test.salesforce.com/packaging/installPackage.apexp?p0=04tHp00000118fQ](https://test.salesforce.com/packaging/installPackage.apexp?p0=04tHp00000118fQ)
+
+1. **Log in to Your Salesforce Environment:**
+   - Use the installation link provided above to log in to your Salesforce sandbox environment.
+   - **Note:** If installing in a production org, replace `test.salesforce.com` with `login.salesforce.com` in the installation URL.
+
+2. **Install the Package:**
+   - On the installation page, select "Install for Admins Only".
+   - Under the section "What if existing component names conflict with ones in this package?", choose an option that aligns with your implementation requirements. This will determine how the package handles naming conflicts with existing components.
   
-## Installation for Omnistudio Components
-* Download datapacks included in the /datapacks/ folder
-* Open the OmniStudio App
-* Navigate to OmniScripts and Click Import
-* Click Browse and locate the multipack COE Omni Processes Multipack.json
-* Click Next
-* Click Next
-* Click Activate Later
+## Installation of Omnistudio Components
+1. Download the datapack ("COE Omni Processess Multipack.json" in the [datapacks](/datapacks/) folder).
+2. In Salesforce, open the OmniStudio app and navigate to the OmniScripts tab.
+4. Click the "Import" button.  On the Select File screen, click "Browse" and locate/select the datapack you downloaded.  Click "Next".
+5. On the "Select Items to Import" screen, select all and click "Next".
+6. On the "Review Items to Import screen, click "Next".
+7. Once the datapack import is complete, click "Activate Later".
 
 ## Installation for Business Rules Engine 
-* Download the sample decision matrix file included in /docs/ folder
-* Edit sample matrix as desired
-* Open Business Rules Engine 
-* Click on Lookup Table 
-* Click on COE Intake Matrix 
-* In the Related tab of the COE Intake Matrix - click on the COE Intake Matrix link
-* Click on Upload CSV File and upload COE Intake Decision Matrix.xlsx
+1. Download the sample decision matrix file ("COE Intake Decision Matrix.xlsx" in the [docs](/docs/) folder) and edit it as desired.
+3. In Salesforce, open the App Launcher menu, go to the Business Rules Engine app, and navigate to the Lookup Tables tab.
+4. In the list view, click to view the "COE Intake Matrix" record. Go to the Related tab and click to view the "COE Intake Matrix V1" record.
+6. Click the "Upload CSV File" button and upload COE Intake Decision Matrix.xlsx
   
   
 <!--[Required. Steps necessary for installing the Accelerator. This can include images/screenshots which must be stored in the /docs/ folder (no external images or images stored elsewhere in the repository.]-->
 
 
 ## Post-Install Setup & Configuration
-*  Assign COE HQ App User to users who will review intake requests
-*  Assign COE HQ Requester to community users who will submit intake requests
-*  Activate reviewed omniscripts
-*  Add the activated COE/ProjectIntake Omniscript to your designated experience cloud page
-*  Add the COE/BRERecommendation Omniscript to the Intake page layout and set component visibility to <br>Intake Status = Review Completed OR Approved OR Rejected
+1.  Assign COE HQ App User to users who will review intake requests
+2.  Assign COE HQ Requester to community users who will submit intake requests
+3.  Activate reviewed omniscripts
+4.  Add the activated COE/ProjectIntake Omniscript to your designated experience cloud page
+5.  Add the COE/BRERecommendation Omniscript to the Intake page layout and set component visibility to <br>Intake Status = Review Completed OR Approved OR Rejected
  <br/>
 
  <!---[Required. Steps necessary for using the Accelerator. This can include images/screenshots which must be stored in the /docs/ folder (no external images or images stored elsewhere in the repository.]--->
