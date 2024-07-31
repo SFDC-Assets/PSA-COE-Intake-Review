@@ -25,7 +25,7 @@ This Accelerator includes the following assets:
 3. <strong>Documentation</strong>, including:
     - This readme file
     - [Data dictionary](/docs/COE%20Intake%20Data%20Dictionary.xlsx)
-    - [Decision Matrix import file (xlsx)](/docs/COE%20Intake%20Decision%20Matrix.xlsx)
+    - [Decision Matrix import file (csv)](/docs/COE%20Intake%20Matrix%20V1.csv)
     - [Flow documentation](/docs/COE%20Intake%20-%20Flow%20Documentation.pdf)
     - [Omniscript documentation](/docs/COE%20Intake%20Omniscript%20Information.pdf)
     - [Business Rules Engine documentation](/docs/COE%20Intake-%20BRE%20Documentation.pdf)
@@ -61,20 +61,19 @@ Unmanaged package installation link: [https://test.salesforce.com/packaging/inst
    - On the installation page, select "Install for Admins Only".
    - Under the section "What if existing component names conflict with ones in this package?", choose an option that aligns with your implementation requirements. This will determine how the package handles naming conflicts with existing components.
   
-## Installation of Omnistudio Components
-1. Download the datapack ("COE Omni Processess Multipack.json" in the [datapacks](/datapacks/) folder).
-2. In Salesforce, open the OmniStudio app and navigate to the OmniScripts tab.
-4. Click the "Import" button.  On the Select File screen, click "Browse" and locate/select the datapack you downloaded.  Click "Next".
-5. On the "Select Items to Import" screen, select all and click "Next".
-6. On the "Review Items to Import screen, click "Next".
-7. Once the datapack import is complete, click "Activate Later".
+3. **Import the OmniStudio DataPack:**
+    - Download the datapack ("COE Omni Processess Multipack.json" in the [datapacks](/datapacks/) folder).
+    - In Salesforce, open the OmniStudio app and navigate to the OmniScripts tab.
+    - Click the "Import" button.  On the Select File screen, click "Browse" and locate/select the datapack you downloaded.  Click "Next".
+    - On the "Select Items to Import" screen, select all and click "Next".
+    - On the "Review Items to Import screen, click "Next".
+    - Once the datapack import is complete, click "Activate Later".
 
-## Installation for Business Rules Engine 
-1. Download the sample decision matrix file ("COE Intake Decision Matrix.xlsx" in the [docs](/docs/) folder) and edit it as desired.
-3. In Salesforce, open the App Launcher menu, go to the Business Rules Engine app, and navigate to the Lookup Tables tab.
-4. In the list view, click to view the "COE Intake Matrix" record. Go to the Related tab and click to view the "COE Intake Matrix V1" record.
-6. Click the "Upload CSV File" button and upload COE Intake Decision Matrix.xlsx
-  
+4. **Upload Your Decision Matrix into Business Rules Engine**
+    - Download the sample decision matrix file ("COE Intake Matrix V1.csv" in the [docs](/docs/) folder) and edit its values as desired.
+    - In Salesforce, open the App Launcher menu, go to the Business Rules Engine app, and navigate to the Lookup Tables tab.
+    - In the list view, click to view the "COE Intake Matrix" record. Go to the Related tab and click to view the "COE Intake Matrix V1" record.
+    - Click the "Upload CSV File" button and upload your decision matrix csv file.  You may have to wait while the file is queued to populate the decision matrix.
   
 <!--[Required. Steps necessary for installing the Accelerator. This can include images/screenshots which must be stored in the /docs/ folder (no external images or images stored elsewhere in the repository.]-->
 
