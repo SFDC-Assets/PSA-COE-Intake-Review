@@ -1,7 +1,7 @@
 ![Public Sector Accelerators logo](/docs/Logo_GPSAccelerators_v01.png)
 
 # Center of Excellence (COE) Intake and Review Accelerator
-Use this Accelerator consisting of omniscript, flows, and business rules engine to help supplement the COE intake process.  
+**Use this Accelerator to streamline how your agency receives and evaluates new business application requests.**
 
 Accelerator Listing: [https://gpsaccelerators.developer.salesforce.com/accelerator/a0wDo00000246dnIAA/center-of-excellence-coe-intake-review](https://gpsaccelerators.developer.salesforce.com/accelerator/a0wDo00000246dnIAA/center-of-excellence-coe-intake-review)
 
