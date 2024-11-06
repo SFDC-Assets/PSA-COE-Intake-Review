@@ -37,8 +37,8 @@ This Accelerator includes the following assets:
 <!--[Required. Pre-requisites, dependencies, license requirements, and other assumptions and caveats should be declared here. Consider content that's specific to the Accelerator and the type of product or technology involved. The PMO may also add assumptions or notes that more broadly apply to the entire program.]-->
 
 **License Requirements** 
-Public Sector Solutions - requires Foundations or Advanced for internal; requires Experience Cloud for Public Sector for external submissions. <br /> 
-Please refer to [Public Sector Solutions Products: User, Feature, and Permission Set Licenses](https://salesforce.quip.com/tAqwA9bezab6) for more information on license requirements. 
+* Public Sector Solutions - requires Foundations or Advanced for internal; requires Experience Cloud for Public Sector for external submissions. <br /> 
+* Please refer to [Public Sector Solutions Products: User, Feature, and Permission Set Licenses](https://salesforce.quip.com/tAqwA9bezab6) for more information on license requirements. 
 
 **Accelerator or Technology-Specific Assumptions** 
 * You have installed and configured OmniStudio and provided permission to PSS objects for internal and external users. 
